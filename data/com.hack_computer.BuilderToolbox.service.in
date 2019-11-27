@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.hack_computer.BuilderToolbox
+Exec=@bindir@/hack-builder-toolbox --gapplication-service
